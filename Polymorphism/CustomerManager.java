@@ -1,7 +1,7 @@
 package Polymorphism;
 
 public class CustomerManager {
-    private BaseLogger logger;
+    private final  BaseLogger logger;
 
     public CustomerManager(BaseLogger logger) {
         this.logger = logger;

@@ -3,10 +3,10 @@ package methodlar;
 public class Methods2 {
 
     public static void main(String[] args) {
-        String mesaj="Bugün hava çok güzel.";
-    String newMassege=    mesaj.substring(0, 3);
+     //   String mesaj="Bugün hava çok güzel.";
+   // String newMassege=    mesaj.substring(0, 3);
    topla2(1,2,3,4,5,6,7,8,9,10);
-    String sehir=sehirVer();
+   // String sehir=sehirVer();
 
 
         // ekle();

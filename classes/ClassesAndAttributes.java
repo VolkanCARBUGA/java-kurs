@@ -4,7 +4,7 @@ public class ClassesAndAttributes {
     
     public static void main(String[] args) {
        Product  product=new Product();
-       Product_Manager product_Manager=new Product_Manager();
+     //  Product_Manager product_Manager=new Product_Manager();
        product.setName("Laptop");
        product.setDescription("çok iyi laptop");
        product.setPrice(12.500);
@@ -21,9 +21,9 @@ public class ClassesAndAttributes {
         
            1, "Laptop", "çok iyi laptop", 12.500, 5
        );
-       Product product4=new Product(
+    //    Product product4=new Product(
            
-       );
+    //    );
       System.out.println(product3.getName());
     }
     
